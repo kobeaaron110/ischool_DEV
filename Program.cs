@@ -1,7 +1,7 @@
 ﻿using FISCA;
 using FISCA.Presentation;
 
-namespace JHSchool.Affair
+namespace JHSchool.Affair1234
 {
     public static class Program
     {
