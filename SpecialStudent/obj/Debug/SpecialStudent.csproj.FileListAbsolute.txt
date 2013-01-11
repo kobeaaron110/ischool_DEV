@@ -1,0 +1,8 @@
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\特殊學生清單.frmSpecialStudent.resources
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\GenerateResource.read.1.tlog
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dylan.Huang\桌面\外掛網站\ischool desktop(範例程式)\addmodules\test1\SpecialStudent.dll
+C:\Documents and Settings\Dylan.Huang\桌面\外掛網站\ischool desktop(範例程式)\addmodules\test1\SpecialStudent.pdb
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\SpecialStudent.dll
+C:\TFS2010\Research\dylan\技術支援程式碼\提供參考的程式碼\SpecialStudent\obj\Debug\SpecialStudent.pdb
